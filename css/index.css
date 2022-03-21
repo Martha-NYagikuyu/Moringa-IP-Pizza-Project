@@ -2,9 +2,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px;
 }
 nav{
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 .hero{
@@ -35,13 +37,15 @@ nav{
 
 }
 footer{
-    background-color: blue;
+    background-color: rgb(8, 8, 153);
 }
 .lower-section{
     background-color: rgb(230, 129, 129);
-    height: 90vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
+}
+
+.min-h{
+    min-height: 100vh;
 }
