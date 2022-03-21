@@ -11,7 +11,7 @@ const pizzaCard = (pizza) => {
                 <h6>${pizza.name}</h6>
                 <p>Crust: ${pizza.crust.name}</p>
                 <p>ksh <strong>${pizza.calculatePrice()}</strong> </p>
-                <button class="btn btn-primary btn-sm shadow-none" onclick="return addToCart('${pizza.name}')">Add to cart</button>
+                
             </div>
         </div>
     </div>
