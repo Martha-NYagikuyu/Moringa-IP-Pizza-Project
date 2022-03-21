@@ -1,6 +1,6 @@
 # PIZZA PROJECT
 
-This is a clone to my delani studio project landing page.
+This is a clone to my Pizza project landing page.
 
 By Martha Munzinga Nyagikuyu
 
