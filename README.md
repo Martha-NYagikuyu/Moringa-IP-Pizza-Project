@@ -6,9 +6,9 @@ By Martha Munzinga Nyagikuyu
 
 ## Description
 
-The purpose of my delani studio project is to indicates the services being offered to pitch a product vision. The site contains 
+The purpose of my pizza project is to indicates the services being offered to pitch a product vision. The site contains 
 
-six sections; about my project,the title,services,what we do,portfolio and the filling form.
+five sections; about home,about us,menu,making order and contact us.
 
 ## Setup requirements
 <ol>
